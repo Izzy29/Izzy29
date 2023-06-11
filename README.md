@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Izzy29/Izzy29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hello Guys!
+### Hello Guys!
 
 Welcome to My GitHub!
 
 My Own Stats:
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Izzy29&theme=radical)
 
