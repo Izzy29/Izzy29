@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MERN Framework, Flutter Framework**
 
-- 💬 Ask me about **Java, MERN, Dart**
+- 💬 Ask me about **Java, MERN, React, NextJs**
 
 - 📫 How to reach me **m.izrinsyafiq@gmail.com**
 
-- ⚡ Fun fact **I think I am fast learner when learning new framework regarding application**
+- ⚡ Fun fact **Currently Im learning and exploring new framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
